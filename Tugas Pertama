@@ -1,0 +1,33 @@
+jawaban
+1.
+void main() {
+  for (int i = 18; i >= 9; i--) {
+    print('Nama Saya adalah Farel, Sekarang berumur $i');
+  }
+}
+2.
+1. Dart adalah Bahasa Dasar untuk Flutter
+Flutter dikembangkan menggunakan Dart, sehingga seluruh logika aplikasi, struktur UI, manajemen state, dan fungsionalitas lainnya diimplementasikan menggunakan Dart. Memahami Dart memungkinkan kamu untuk menguasai Flutter lebih cepat karena kamu akan dapat:
+•	Membaca dan menulis kode dengan lebih efektif.
+•	Memahami struktur dan alur program dalam Flutter.
+•	Memanfaatkan fitur Dart secara maksimal dalam pengembangan aplikasi.
+2. Pemahaman Konsep Pemrograman yang Diterapkan di Flutter
+Dart mendukung banyak konsep pemrograman yang juga diterapkan dalam Flutter, seperti:
+•	Pemrograman berorientasi objek (OOP): Flutter heavily relies on object-oriented programming, di mana class dan objek sangat penting dalam mendefinisikan UI widget.
+•	Asynchronous programming: Dart memiliki fitur async dan await untuk menangani operasi asinkron, yang sering digunakan di Flutter untuk operasi seperti pemanggilan API, manipulasi database, dan pengelolaan file.
+Pemahaman konsep-konsep ini dalam Dart akan membantu dalam mengembangkan aplikasi Flutter yang efisien dan responsif.
+3. Memanfaatkan Fitur Dart untuk Optimisasi Kinerja
+Dart menawarkan banyak fitur yang secara langsung berhubungan dengan kinerja aplikasi:
+•	Garbage Collection dan Memory Management: Dart menyediakan manajemen memori otomatis yang penting untuk aplikasi mobile.
+•	Just-In-Time (JIT) & Ahead-Of-Time (AOT) Compilation: Flutter memanfaatkan kecepatan pengembangan dari JIT saat debugging dan optimasi runtime dari AOT saat merilis aplikasi, yang merupakan fitur inti dari Dart. Mengetahui kapan dan bagaimana ini digunakan memungkinkan pengembang mengoptimalkan pengembangan dan performa aplikasi.
+4. Widget dan Dart Class
+Flutter sepenuhnya dibangun menggunakan konsep widget, yang pada dasarnya adalah class Dart. Untuk bisa membuat custom widget atau mengubah perilaku widget yang ada, pemahaman dasar tentang class, inheritance, dan komposisi dari Dart sangatlah penting. Dengan pemahaman Dart, kamu bisa:
+•	Membuat widget sendiri.
+•	Mengelola properti dan state widget secara efisien.
+5. Debugging dan Error Handling yang Lebih Efektif
+Saat membangun aplikasi Flutter, kamu akan sering berhadapan dengan error atau bug. Mengetahui cara kerja Dart mempermudah dalam:
+•	Memahami pesan error yang diberikan Dart dan Flutter.
+•	Menemukan dan memperbaiki masalah dalam kode dengan lebih efisien.
+6. Menggunakan Paket dan Library
+Dart memiliki pub, sebuah manajer paket yang menyediakan banyak library dan tools yang bisa kamu gunakan dalam proyek Flutter. Memahami Dart membantu dalam:
+
